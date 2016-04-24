@@ -417,6 +417,7 @@ List of filtered words
 ____________
 You can use [ ! , / or # ]or don’t use them
 Joker Anti Spam Bot
+
 ]]
   }
   serialize_to_file(config, './data/config.lua')
