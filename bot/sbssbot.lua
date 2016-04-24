@@ -269,6 +269,7 @@ function create_config( )
 See Patterns In Github
 ]],
     help_fa_text = [[
+    
 🔘 دستوررسی ربات 🔘
 
 ⛔️ اداره اعضا ⛔️
